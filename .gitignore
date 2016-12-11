@@ -1,0 +1,6 @@
+.idea
+docs/build
+propagation_tools.egg-info/
+build
+tests/.cache
+dist
